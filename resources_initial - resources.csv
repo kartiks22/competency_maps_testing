@@ -1,0 +1,68 @@
+resource_id,X,Y,norm_X,norm_Y,about
+data_AllocationCGTL1.txt,407.9762469,247.6979065,0.9172278866,9.987769494,Allocation in Networks
+data_AllocationnetworkDON-L3.txt,410.9553226,223.2546692,0.9697998106,8.998164745,DON and its Extensions
+data_LNch1.txt,406.8533445,158.3161011,0.8974119613,6.369072918,Introduction
+data_LNch10.txt,406.5478131,36.39453125,0.8920202319,1.432976974,Blockmodels
+data_LNch11.txt,407.1205129,64.45275879,0.9021266974,2.568937603,Network Statistics
+data_LNch12.txt,406.6615038,51.02678299,0.8940265375,2.02537583,Network Comparison
+data_LNch13.txt,410.5103743,91.70642853,0.9619477822,3.672325042,Network Models
+data_LNch14.txt,408.2903365,41.9390564,0.9227706441,1.657451676,Spectral Analysis
+data_LNch15.txt,407.9868176,54.60649872,0.917414429,2.170303592,Robustness and Resilience
+data_LNch2.txt,409.5225362,114.2938919,0.9445153444,4.586797243,"Graph Theory, Connected components, Shortest Paths, Probability and Random Walks"
+data_LNch3.txt,405.9118941,8.115618706,0.8807981316,0.288081729,"Centrality Indices, Eccentricity, Properties of graph"
+data_LNch4.txt,407.917273,51.14073563,0.9161871704,2.029989297,"Algorithms for Centrality Indices, Shortest Paths, Maximum Flows and Minimum-Cost Flows"
+data_LNch5.txt,405.8786,18.0014534,0.8802105882,0.6883179514,"Advanced Centrality Concept, Normalization, Personalization"
+data_LNch6.txt,406.8896627,2.716114998,0.8980528713,0.06947833999,"Local Density, Cliques"
+data_LNch7.txt,411.562803,2.832616329,0.9805200533,0.07419499308,"Connectivity, Minimal Cut, Edge Connectivity"
+data_LNch8.txt,405.5612904,42.45322037,0.874611007,1.678268031,"Clustering, Conductance"
+data_LNch9.txt,406.8748682,34.48763275,0.8977917925,1.355774605,"Role Assignments, Regular Equivalence"
+data_Mandate-1.txt,410.521561,80.72303772,0.9621451934,3.227653349,"Network Science intro, www history, graphs, analytics"
+data_Mandate-1(1).txt,410.5215584,80.72303772,0.9621451476,3.227653349,"Network Science intro, www history, graphs, analytics"
+data_mandate-3_2.0.txt,411.1994636,137.5070801,0.974108182,5.526602432,Structural Analysis of Networks
+data_Mandate2.txt,409.2459619,138.1623535,0.9396346218,5.553131721,Structural Analysis of Networks and Game Theory
+data_MAS.txt,409.9142987,14.53923607,0.9514288011,0.5481472093,"Rational Choice, Game Theory,Extensive Decision Making,Auction"
+data_MAS(1).txt,409.9142063,14.53923607,0.9514271694,0.5481472093,"Rational Choice, Game Theory,Extensive Decision Making,Auction"
+data_NCMch1.txt,405.9412671,53.49130249,0.8813164788,2.125153947,Overview
+data_NCMch10.txt,409.3467936,8.357546806,0.9414140051,0.2978763889,Matching Markets
+data_NCMch11.txt,410.2349524,23.15385056,0.9570873953,0.8969170265,Network Models of Markets with Intermediaries
+data_NCMch12.txt,406.882998,31.59286499,0.897935258,1.23857753,Bargaining and Power in Networks
+data_NCMch13.txt,412.5850342,55.84738541,0.9985594277,2.220541919,The Structure of the Web
+data_NCMch14.txt,407.7225424,9.675243378,0.9127507485,0.3512244282,Link Analysis and Web Search
+data_NCMch15.txt,408.1592774,42.65626144,0.9204578366,1.686488318,Sponsored Search Markets
+data_NCMch16.txt,407.8284314,8.59718132,0.9146193771,0.3075781911,Information Cascades
+data_NCMch17.txt,409.8822697,15.87186909,0.9508635822,0.602099963,Network Effects
+data_NCMch18.txt,406.8025031,91.20274353,0.8965147601,3.651932936,Power Laws and Rich-Get-Richer Phenomena
+data_NCMch19.txt,404.0721254,17.60159683,0.8483316247,0.6721294264,Cascading Behavior in Networks
+data_NCMch2.txt,405.1228021,18.57677269,0.8668729791,0.7116102304,"Graphs, Paths and Connectivity, breadth-ﬁrst search, "
+data_NCMch20.txt,404.9404394,53.1625061,0.8636548123,2.111842352,The Small-World Phenomenon
+data_NCMch21.txt,405.5593961,37.07836914,0.8745775779,1.460662718,Epidemics
+data_NCMch22.txt,410.7844326,20.31760216,0.9667841038,0.7820891562,Markets and Information
+data_NCMch23.txt,411.1664756,55.25598526,0.9735260399,2.196598594,Voting
+data_NCMch24.txt,405.8180005,94.75132751,0.8791411861,3.795600304,Property Rights
+data_NCMch3.txt,405.2444151,22.10872841,0.8690190899,0.854604389,"paths and connectivity, Breadth-First Search, Strong and Weak Ties, Betweenness Measures and Graph Partitioning"
+data_NCMch4.txt,405.2127338,27.54281235,0.8684600075,1.074607787,Networks in Their Surrounding Contexts
+data_NCMch5.txt,407.1880309,24.89844894,0.9033181929,0.9675485402,Positive and Negative Relationships
+data_NCMch6.txt,409.6682102,21.72548294,0.9470860627,0.8390883782,Games
+data_NCMch7.txt,410.3273139,38.43669128,0.958717305,1.515655518,Evolutionary Game Theory
+data_NCMch8.txt,410.0240478,2.666649818,0.9533655497,0.06747570115,Modeling Network Traffic Using Game Theory
+data_NCMch9.txt,407.3620591,15.67131042,0.9063892774,0.5939801791,Auctions
+data_NetworkCENTRALITYL2.txt,409.9160993,243.4199371,0.9514605765,9.814572354,"Shapley, Group Centrality, Link Fairness , FSV"
+data_NetworkCENTRALITYL2(1).txt,409.9163788,243.4199371,0.951465509,9.814572354,"Shapley, Group Centrality, Link Fairness , FSV"
+data_RHEMch1.txt,405.6244401,88.09648132,0.8757254128,3.526173333,Introduction
+data_RHEMch10.txt,409.2582212,38.29864883,0.9398509618,1.510066754,Words
+data_RHEMch11.txt,407.5939701,10.4407711,0.9104818248,0.3822174536,Guessing to Coordinate
+data_RHEMch12.txt,408.8194632,37.50312042,0.9321081742,1.477859126,Learning to Coordinate
+data_RHEMch13.txt,408.6339037,37.65385056,0.9288335938,1.483961561,Delays and Payoff Externalities
+data_RHEMch14.txt,406.9977437,81.6138916,0.8999601832,3.263720308,Sequences of Financial Trades
+data_RHEMch15.txt,411.5380526,11.7782383,0.9800832819,0.4363659229,Gaussian Financial Markets
+data_RHEMch16.txt,409.8487048,1.203660488,0.9502712618,0.008245363892,Financial Frenzies
+data_RHEMch2.txt,406.9544359,63.43074417,0.8991959282,2.527560493,Bayesian Tools
+data_RHEMch3.txt,407.5666775,123.8820953,0.9100001917,4.974983617,Social Learning with a Common Memory
+data_RHEMch4.txt,408.9686482,39.2943573,0.9347408514,1.550378838,Cascades and Herds
+data_RHEMch5.txt,406.4198596,61.28279495,0.8897622291,2.440598986,Limited Memories
+data_RHEMch6.txt,410.5961923,8.327167511,0.9634622165,0.2966464579,Delays
+data_RHEMch7.txt,408.9080004,58.83990479,0.9336705945,2.34169655,More Delays
+data_RHEMch8.txt,405.8934992,65.66322327,0.8804735162,2.617944262,Outcomes
+data_RHEMch9.txt,405.4150279,88.41779327,0.8720299036,3.539181914,Networks and Diffusion
+data_SocialLearningL1.txt,406.1661346,157.5495605,0.8852847288,6.338038889,Social Learning
+data_SocialLearningL2.txt,407.007043,233.7621765,0.9001242881,9.423569899,"Non-Bayesian, Hybrid, and Ad hoc Social Learning Models"
